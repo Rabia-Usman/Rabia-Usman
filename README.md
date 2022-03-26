@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Rabia-Usman
 - 👀 I’m interested in Web Devlopment gaming and Mobile application 
-- 🌱 I’m currently learning c++
+- I have learned C++
+- 🌱 I’m currently learning and working with c#
 
 
 <!---
