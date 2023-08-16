@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Rabia-Usman
-- 👀 I’m interested in Web Devlopment gaming and Mobile application 
-- I have learned C++
-- 🌱 I’m currently learning and working with c#
+- asp.NET corer web API Developer.
+- Backend Developer
+- 👀 I’m interested in Web development, gaming, and Mobile applications.
+- Proficiency in C#,C++ and Python.
 
 
 <!---
