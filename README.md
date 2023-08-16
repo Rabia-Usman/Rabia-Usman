@@ -2,7 +2,7 @@
 - asp.NET core web API Developer.
 - Backend Developer
 - 👀 I’m interested in Web development, gaming, and Mobile applications.
-- Proficiency in C#,C++ and Python.
+- Proficiency in C#, C++, and Python
 
 
 <!---
