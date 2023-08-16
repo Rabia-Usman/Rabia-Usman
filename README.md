@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rabia-Usman
-- asp.NET corer web API Developer.
+- asp.NET core web API Developer.
 - Backend Developer
 - 👀 I’m interested in Web development, gaming, and Mobile applications.
 - Proficiency in C#,C++ and Python.
